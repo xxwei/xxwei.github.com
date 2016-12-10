@@ -18,8 +18,6 @@
       <guid>https://xxwei.github.io/0003/</guid>
       <description>
 
-&lt;h1 id=&#34;特征提取&#34;&gt;特征提取&lt;/h1&gt;
-
 &lt;h2 id=&#34;定义&#34;&gt;定义&lt;/h2&gt;
 
 &lt;p&gt;对某一模式的组测量值进行变换，以突出该模式具有代表性特征的一种方法。通过影像分析和变换，以提取所需特征的方法。&lt;/p&gt;
@@ -47,8 +45,6 @@
       
       <guid>https://xxwei.github.io/0002/</guid>
       <description>
-
-&lt;h1 id=&#34;卷积神经网络&#34;&gt;卷积神经网络&lt;/h1&gt;
 
 &lt;h3 id=&#34;卷积神经网络简介-convolutional-neural-networks-简称cnn&#34;&gt;卷积神经网络简介（Convolutional Neural Networks，简称CNN）&lt;/h3&gt;
 
